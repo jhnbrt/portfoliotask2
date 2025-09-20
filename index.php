@@ -1,4 +1,4 @@
-<?php include 'db.php'; ?>
+<?php include _DIR_ . "/Database/db.php"; ?>
 
 <?php
 // Insert new post
